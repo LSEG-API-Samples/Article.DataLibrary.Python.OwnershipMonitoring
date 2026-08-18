@@ -13,6 +13,9 @@ The workflow:
 
 The notebook is a monitoring and operationalization example, not a transaction feed, trading strategy, or stock-performance forecast. It compares reported ownership snapshots and does not infer trade dates, investor intent, or a confirmed sale when an investor is no longer represented. The thresholds and review cadence can be adapted to the issuer and the needs of the analyst or team using the workflow.
 
+Details and concepts are further explained in the [Who Owns Your Company, and What Has Changed?](https://developers.lseg.com/en/article-catalog/article/ownership-monitoring) article published on the [LSEG Developer Community portal](https://developers.lseg.com).
+
+
 ## <a id="disclaimer"></a>Disclaimer
 The source code presented in this project has been written by LSEG only for the purpose of illustrating the concepts of creating example scenarios using the LSEG Data Library for Python.
 
